@@ -1,6 +1,1 @@
-# diabetsNLP
-# diabetsNLP
-# diabetsNLP
-# diabetsNLP
-# diabetsNLP
-# diabetsNLP
+# deneme
